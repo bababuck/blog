@@ -30,4 +30,4 @@ This project started out with the goal of creating a Linux debugger for RISCV sy
 
 All you need for this tutorial is a Mac of some sort with administrative access and a C/C++ compiler, as well as a text editor. I personally use emacs, but any editor will work just fine. I will skip over some of the logistical details in this guide (such as compiling, linking, file setup etc.), so if you want to see exactly what I did feel free to follow along with my [git repository](https://github.com/bababuck/CRiscvUserDebugger). Don't let the name throw you off, this project did start of with RISCV Linux in mind, but there was a change in objective for reasons to be explained later.
 
-Continue to Part 2 to begin writing your debugger!
+Continue to [Part 2](https://bababuck.github.io/blog/2024/03/01/debugger-pt2.html) to begin writing your debugger!
